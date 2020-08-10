@@ -1,0 +1,19 @@
+C:\Users\Miguel Hilario\source\repos\Calcular el consto de un servicio\obj\Debug\Calcular el consto de un servicio.csprojAssemblyReference.cache
+C:\Users\Miguel Hilario\source\repos\Calcular el consto de un servicio\obj\Debug\Calcular_el_consto_de_un_servicio.Form1.resources
+C:\Users\Miguel Hilario\source\repos\Calcular el consto de un servicio\obj\Debug\Calcular_el_consto_de_un_servicio.Properties.Resources.resources
+C:\Users\Miguel Hilario\source\repos\Calcular el consto de un servicio\obj\Debug\Calcular el consto de un servicio.csproj.GenerateResource.cache
+C:\Users\Miguel Hilario\source\repos\Calcular el consto de un servicio\bin\Debug\Calcular el consto de un servicio.exe.config
+C:\Users\Miguel Hilario\source\repos\Calcular el consto de un servicio\bin\Debug\Calcular el consto de un servicio.exe
+C:\Users\Miguel Hilario\source\repos\Calcular el consto de un servicio\bin\Debug\Calcular el consto de un servicio.pdb
+C:\Users\Miguel Hilario\source\repos\Calcular el consto de un servicio\obj\Debug\Calcular el consto de un servicio.exe
+C:\Users\Miguel Hilario\source\repos\Calcular el consto de un servicio\obj\Debug\Calcular el consto de un servicio.pdb
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\Calcular el consto de un servicio\bin\Debug\Calcular el consto de un servicio.exe.config
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\Calcular el consto de un servicio\bin\Debug\Calcular el consto de un servicio.exe
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\Calcular el consto de un servicio\bin\Debug\Calcular el consto de un servicio.pdb
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\Calcular el consto de un servicio\obj\Debug\Calcular el consto de un servicio.csprojAssemblyReference.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\Calcular el consto de un servicio\obj\Debug\Calcular_el_consto_de_un_servicio.Form1.resources
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\Calcular el consto de un servicio\obj\Debug\Calcular_el_consto_de_un_servicio.Properties.Resources.resources
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\Calcular el consto de un servicio\obj\Debug\Calcular el consto de un servicio.csproj.GenerateResource.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\Calcular el consto de un servicio\obj\Debug\Calcular el consto de un servicio.csproj.CoreCompileInputs.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\Calcular el consto de un servicio\obj\Debug\Calcular el consto de un servicio.exe
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\Calcular el consto de un servicio\obj\Debug\Calcular el consto de un servicio.pdb
